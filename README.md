@@ -1,4 +1,4 @@
-# Optimizing Healthcare Costs
+# Optimizing Healthcare Costs: Predictive Analytics and Strategic Insights for HMOs
 
 ## 1. Description
 This project revolves around analyzing healthcare data of 7,583 individuals to provide actionable insights for a Health Management Organization (HMO). The goal is to predict which individuals will have high healthcare costs in the next year, and provide recommendations to reduce these costs based on health and lifestyle attributes. Each row in the dataset represents a person, and the analysis focuses on identifying the key factors driving healthcare expenses.
